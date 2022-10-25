@@ -85,7 +85,9 @@ if (this.validacionFormulario()) {
       }
   });
 
-
+  function onSubmit(token) {
+    document.getElementById("form1").submit();
+  }
 
     
   } catch (error) {
