@@ -16,7 +16,7 @@
 
 
 /*Tipografias Globales*/
-p,li,button {   font-family: "ABeeZee-Regular", cursive;}
+p,li,button, input, select, textarea {   font-family: "ABeeZee-Regular", cursive;}
 h1, h2, h3, h4 { font-family: "ariblk", cursive;}
 
 body{
